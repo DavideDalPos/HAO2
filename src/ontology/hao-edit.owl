@@ -5606,7 +5606,7 @@ AnnotationAssertion(rdfs:label foaf:depicts "depicts")
 #   Classes
 ############################
 
-# Class: obo:AISM_0004081 (obo:AISM_0004081)
+# Class: obo:AISM_0004081 (pleural wing process)
 
 EquivalentClasses(obo:AISM_0004081 obo:HAO_0000726)
 
